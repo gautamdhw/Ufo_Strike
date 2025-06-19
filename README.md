@@ -59,16 +59,16 @@
 ![Gameplay](gameplay.png)
 
 ### 🟢 Invisibility Mode Activated
-![Invisibility Mode](screenshots/invisibility_mode.png)
+![Invisibility Mode](invisibility_mode.png)
 
 ### 💥 UFO Shooting Laser
-![Laser Shot](screenshots/ufo_laser.png)
+![Laser Shot](ufo_laser.png)
 
 ### ☄️ Meteor Explosion
-![Meteor Explosion](screenshots/meteor_explosion.png)
+![Meteor Explosion](meteor_explosion.png)
 
 ### 🛑 Game Over Window
-![Game Over](screenshots/game_over.png)
+![Game Over](game_over.png)
 
 ---
 
